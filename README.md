@@ -4,20 +4,20 @@
 Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+March 2, 2018
 
 ### Student Name:  
-(First and Last Name)
+Jamie Graves
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+In this assignment, we dove a little deeper in to Javascript and used more difficult code to build on what we learned in Lesson 4. 
 
 ### View Project:
 (Replace this statement with your Github Page URL that was created when you 
  published the project.)
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. How to make calculations using equations in JavaScript.
+2. How to style text using Markdown. 
+3. How to make "clear" buttons work in applications using JavaScript. 
 
