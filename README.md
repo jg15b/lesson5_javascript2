@@ -13,8 +13,7 @@ Jamie Graves
 In this assignment, we dove a little deeper in to Javascript and used more difficult code to build on what we learned in Lesson 4. 
 
 ### View Project:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+https://jg15b.github.io/lesson5_javascript2/
 
 ### Lessons Learned in the Assignment:
 1. How to make calculations using equations in JavaScript.
